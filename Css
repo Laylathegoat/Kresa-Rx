@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color:red;
+    width: 100%;
+    min-width: 1300px;
+    height: 120px;
+    border-bottom:5px solid gray;
+}
+header img {
+    margin-left: 10px;
+    height: 100px
+}
+
+#searchbar{
+    border-radius: 100px;
+    border: solid 4px gray;
+    padding: 3px;
+    background-color:black;
+   color: white;
+   margin: 0%;
+}
+header input {
+    width: 900px;
+    height: 30px;
+}
