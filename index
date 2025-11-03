@@ -1,7 +1,7 @@
 <html>
     <head>
         <title> Kresa RX</title>
-        <link rel="stylesheet" type="text/css" href="resources\index.css">
+        <link rel="stylesheet" type="text/css" href="index.css">
     </head>
     <body>
 <header>
@@ -12,7 +12,17 @@
 <i class="fa-solid fa-magnifying-glass"></i>
 </button>
     </form>
-
+ <form id="epicbuttons">
+    <button class="epicbuttons" type="submit" placeholder="epic button 1">
+        <i class="fa-solid fa-cart-shopping"></i>
+    </button>
+    <button class="epicbuttons" type="submit" placeholder="epic button 3">
+        <i class="fa-solid fa-circle-user"></i>
+    </button>
+    <button class="epicbuttons" type="submit" placeholder="epic button 2">
+      <i class="fa-solid fa-comment"></i>
+    </button>
+ </form>
 </header>
 
 
