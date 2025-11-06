@@ -75,3 +75,18 @@ header input {
     font-size:  60px;
     
 }
+.frontpage1 a {
+    width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: black;
+    text-decoration:underline;
+    
+}
+.frontpage1 a:hover {
+    opacity: 0.6;
+}
