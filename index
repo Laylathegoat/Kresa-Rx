@@ -2,7 +2,9 @@
     <head>
         <title> Kresa RX</title>
         <link rel="stylesheet" type="text/css" href="index.css">
-         <script src="https://kit.fontawesome.com/a8b5a230d7.js" crossorigin="anonymous"></script>
+         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/a8b5a230d7.js" crossorigin="anonymous"></script>
     </head>
     <body>
 <header>
@@ -28,6 +30,14 @@
 <main>
 <section class="frontpage1">
     <h1>KRESA RX Here To Help </h1>
+    <a href="messagelink" id="assistance">
+     <h4> Want or Need Assitance ? Contact Our Pharmacists </h4>
+     <i class="fa-solid fa-arrow-right"></i>
+     </a>
+     <a href="messagelink" id="assistance">
+        <h4>Looking for your Precriptions? There all here </h4>
+        <i class="fa-solid fa-arrow-right"></i>
+     </a>
 </section>
 
 
@@ -36,12 +46,10 @@
 
 
 </main>
-
-
-
-
-
     </body>
 </html>
+
+
+
 
 
